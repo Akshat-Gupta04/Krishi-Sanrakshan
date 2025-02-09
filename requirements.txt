@@ -1,0 +1,8 @@
+
+streamlit-lottie
+pandas
+scikit-fuzzy
+hydralit-components
+streamlit
+tensorflow
+numpy
